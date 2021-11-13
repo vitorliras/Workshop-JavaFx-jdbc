@@ -70,7 +70,7 @@ public class MainViewController implements Initializable{
 			// TODO Auto-generated catch block
 			Alerts.showAlert("IO Exception", "Error loading view", e.getMessage(), AlertType.ERROR);
 		}
-	}
+	} 
 	
 	
 
